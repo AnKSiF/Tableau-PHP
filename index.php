@@ -10,7 +10,7 @@
 
 
     <body>
-        <table>
+        <table class="tableau">
             <thead>
                 <tr>
                     <td colspan="1"></td>
