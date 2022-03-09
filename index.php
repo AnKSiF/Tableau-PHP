@@ -4,7 +4,7 @@
         <title>multiplications de 1 a 12</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="tableau.css" rel="stylesheet" type="text/css">
+        <link href="tableau-php.css" rel="stylesheet" type="text/css">
     </head>
 
 
