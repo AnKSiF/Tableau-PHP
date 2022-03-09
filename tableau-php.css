@@ -1,4 +1,10 @@
 .tableau {
   width: 100%;
-  border-collapse: separate;
+}
+th,tr,td {
+  border-style:dashed double;
+  border-width: 1px;
+  border-color: grey;
+  text-align: center;
+  padding: : 5px;
 }
